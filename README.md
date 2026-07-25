@@ -8,6 +8,12 @@
 
 <img src="none" alt="Banner" width="100%" />
 
+## 👨‍💻 Coding Profiles
+- LeetCode: https://leetcode.com/u/t3Qe1P3r2j
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/sureshkatta1234
+- CodeChef: https://www.codechef.com/users/u23a81a0590
+- Codolio: https://codolio.com/@sureshk
+  
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/suresh-88">
