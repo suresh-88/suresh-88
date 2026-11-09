@@ -1,0 +1,17 @@
+name: GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ashutosh00710/github-readme-activity-graph@v1.2.9
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_filename: profile-activity-graph.svg
+          theme: nightowl
