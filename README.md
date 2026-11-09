@@ -22,9 +22,8 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=suresh-88&theme=nightowl&hide_border=true&cache_seconds=86400" alt="suresh-88's GitHub Streak" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=suresh-88&theme=nightowl&radius=10" alt="suresh-88's Activity Graph" />
+  <img src="https://ghchart.rshah.org/nightowl/suresh-88" alt="suresh-88's GitHub Activity Graph" width="100%" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
